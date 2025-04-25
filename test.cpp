@@ -6,7 +6,7 @@ void saludar();
 
 int main() {
 
-    saludar();
+    saludar()
     cout << "Github" << endl;
     return 0;
 }
